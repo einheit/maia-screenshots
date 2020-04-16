@@ -5,7 +5,7 @@ Screenshots of the maia mailguard management web interface
 
 ![user dashboard](https://github.com/einheit/maia-screenshots/blob/master/02-maia-user-dashboard.png "user dashboard")
 
-![user preferences](https://github.com/einheit/maia-screenshots/blob/master/03-maia-user-filter.png "user preferences")
+![user preferences](https://github.com/einheit/maia-screenshots/blob/master/03-maia-user-prefs.png "user preferences")
 
 ![statistics](https://github.com/einheit/maia-screenshots/blob/master/04-maia-stats.png "statistics")
 
